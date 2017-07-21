@@ -26,7 +26,7 @@ Oh, I'm around but will be more likely to consume adult oriented liquid refreshm
 
 ## Disclaimers
 
-This data is all current as of 2017-07-20 and may or may not be updated prior to the conference. All the copy was taken from the DC25 website a few weeks ago, so typos aren't my fault. For external use only. If you develop a rash, discontinue use and consult a physician. jur1st is an attorney, but he's not your attorney.
+This data is all current as of 2017-07-20 and may or may not be updated prior to the conference. Yes, I'm aware that the formatting for the speaker name and job title is a little wonky. When Bear introduces global find and replace with regular expression support I'll get that fixed. All the copy was taken from the DC25 website a few weeks ago, so typos aren't my fault. For external use only. If you develop a rash, discontinue use and consult a physician. jur1st is an attorney, but he's not your attorney.
 
 AMFYOYO
 Long live #partytrack
