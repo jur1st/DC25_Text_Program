@@ -1,0 +1,10 @@
+# 1030 - Breaking Wind: Adventures in Hacking Wind Farm Control Networks
+Saturday at 10:20 in 101 Track
+20 minutes
+### Jason Staggs*Security Researcher at the University of Tulsa*
+
+Wind farms are becoming a leading source for renewable energy. The increased reliance on wind energy makes wind farm control systems attractive targets for attackers. This talk explains how wind farm control networks work and how they can be attacked in order to negatively influence wind farm operations (e.g., wind turbine hijacking). Specifically, implementations of the IEC 61400-25 family of communications protocols are investigated (i.e., OPC XML-DA). This research is based on an empirical study of a variety of U.S. based wind farms conducted over a two year period. We explain how these security assessments reveal that wind farm vendor design and implementation flaws have left wind turbine programmable automation controllers and OPC servers vulnerable to attack. Additionally, proof-of-concept attack tools are developed in order to exploit wind farm control network design and implementation vulnerabilities.
+Jason Staggs
+Dr. Jason Staggs is an independent information security researcher with strong interests in critical infrastructure protection, telecommunications, penetration testing, network security and digital forensics. Jason has spoken at national and international conferences, authored various peer-reviewed publications and lectured undergraduate and graduate level courses on a variety of cyber security topics. His expertise in digital forensics has enabled him to provide invaluable assistance to law enforcement agencies at the local, state and federal levels in order to solve high-profile cybercrimes. In his spare time, Jason enjoys reverse engineering proprietary network stacks in embedded devices and diving through ancient RFCs to demystify obscure network protocols. Jason attended graduate school at The University of Tulsa where he earned his M.S. and Ph.D. degrees in Computer Science.
+
+#defcon25/by_track/101/saturday #defcon25/By_Day/_saturday

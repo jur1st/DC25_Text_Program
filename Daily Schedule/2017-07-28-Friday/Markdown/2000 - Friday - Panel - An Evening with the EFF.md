@@ -1,0 +1,28 @@
+# 2000 - Friday - Panel - An Evening with the EFF
+Friday at 20:00 - 22:00 in Trevi Room
+Evening Lounge | 0025
+### Kurt Opsahl*Deputy Executive Director & General Counsel, Electronic Frontier Foundation*
+
+### Nate Cardozo*EFF Senior Staff Attorney*
+
+### Eva Galperin*EFF Director of Cyber security*
+
+### Andrew Crocker*EFF Staff Attorney*
+
+### Kit Walsh*EFF Staff Attorney*
+
+Relax and enjoy in an evening lounge while you get the latest information about how the law is racing to catch up with technological change from staffers at the Electronic Frontier Foundation, the nation's premiere digital civil liberties group fighting for freedom and privacy in the computer age. This Evening Lounge discussion will include updates on current EFF issues such as surveillance online, encryption (and backdoors), and fighting efforts to use intellectual property claims to shut down free speech and halt innovation, discussion of our technology project to protect privacy and speech online, updates on cases and legislation affecting security research, and much more.
+Kurt Opsahl
+KURT OPSAHL is the Deputy Executive Director and General Counsel of the Electronic Frontier Foundation. In addition to representing clients on civil liberties, free speech and privacy law, Opsahl counsels on EFF projects and initiatives. Opsahl is the lead attorney on the Coders' Rights Project. Before joining EFF, Opsahl worked at Perkins Coie, where he represented technology clients with respect to intellectual property, privacy, defamation, and other online liability matters, including working on Kelly v. Arribasoft, MGM v. Grokster and CoStar v. LoopNet. For his work responding to government subpoenas, Opsahl is proud to have been called a "rabid dog" by the Department of Justice. Prior to Perkins, Opsahl was a research fellow to Professor Pamela Samuelson at the U.C. Berkeley School of Information Management & Systems. Opsahl received his law degree from Boalt Hall, and undergraduate degree from U.C. Santa Cruz. Opsahl co-authored "Electronic Media and Privacy Law Handbook." In 2007, Opsahl was named as one of the "Attorneys of the Year" by California Lawyer magazine for his work on the O'Grady v. Superior Court appeal. In 2014, Opsahl was elected to the USENIX Board of Directors.
+
+@kurtopsahl, @eff
+Nate Cardozo
+NATE CARDOZO is a Senior Staff Attorney on the Electronic Frontier Foundation's digital civil liberties team. In addition to his focus on free speech and privacy litigation, Nate works on EFF's Who Has Your Back? report and Coders' Rights Project. Nate has projects involving cryptography and the law, automotive privacy, government transparency, hardware hacking rights, anonymous speech, electronic privacy law reform, Freedom of Information Act litigation, and resisting the expansion of the surveillance state. A 2009-2010 EFF Open Government Legal Fellow, Nate spent two years in private practice before returning to his senses and to EFF in 2012. Nate has a B.A. in Anthropology and Politics from U.C. Santa Cruz and a J.D. from U.C. Hastings where he has taught first-year legal writing and moot court. He brews his own beer, has been to India four times, and watches too much Bollywood.
+Eva Galperin
+EVA GALPERIN is EFF's Director of Cybersecurity. Prior to 2007, when she came to work for EFF, Eva worked in security and IT in Silicon Valley and earned degrees in Political Science and International Relations from SFSU. Her work is primarily focused on providing privacy and security for vulnerable populations around the world. To that end, she has applied the combination of her political science and technical background to everything from organizing EFF's Tor Relay Challenge, to writing privacy and security training materials (including Surveillance Self Defense and the Digital First Aid Kit), and publishing research on malware in Syria, Vietnam, Kazakhstan. When she is not collecting new and exotic malware, she practices aerial circus arts and learning new languages.
+Andrew Crocker
+ANDREW CROCKER is a staff attorney on the Electronic Frontier Foundation's civil liberties team. He focuses on EFF's national security and privacy docket, as well as the Coders' Rights Project. While in law school, Andrew worked at the Berkman Center for Internet and Society, the American Civil Liberties Union's Speech, Privacy, and Technology Project, and the Center for Democracy and Technology. He received his undergraduate and law degrees from Harvard University and an M.F.A. in creative writing from New York University. His interests include Boggle and donuts.
+Kit Walsh
+KIT WALSH is a staff attorney at EFF, working on free speech, net neutrality, copyright, coders' rights, and other issues that relate to freedom of expression and access to knowledge. She has worked for years to support the rights of political protesters, journalists, remix artists, and technologists to agitate for social change and to express themselves through their stories and ideas. Prior to joining EFF, Kit led the civil liberties and patent practice areas at the Cyberlaw Clinic, part of Harvard's Berkman Center for Internet and Society, and previously Kit worked at the law firm of Wolf, Greenfield & Sacks, litigating patent, trademark, and copyright cases in courts across the country. Kit holds a J.D. from Harvard Law School and a B.S. in neuroscience from MIT, where she studied brain-computer interfaces and designed cyborgs and artificial bacteria.
+
+#defcon25/eveninglounges #defcon25/By_Day/_Friday

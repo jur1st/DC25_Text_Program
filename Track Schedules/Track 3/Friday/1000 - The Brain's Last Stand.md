@@ -1,0 +1,12 @@
+# 1000 - The Brain's Last Stand
+Friday at 10:00 in Track 3
+45 minutes
+### Garry Kasparov*Avast Security Ambassador*
+
+Former world chess champion Garry Kasparov has a unique place in history as the proverbial "man" in "man vs. machine" thanks to his iconic matches against the IBM supercomputer Deep Blue. Kasparov walked away from that watershed moment in artificial intelligence history with a passion for finding ways humans and intelligent machines could work together. In the spirit of "if you can't beat'em, join'em," Kasparov has explored that potential for the 20 years since his loss to Deep Blue. Navigating a practical and hopeful approach between the utopian and dystopian camps, Kasparov focuses on how we can rise to the challenge of the AI revolution despite job losses to automation and refuting those who say our technology is making us less human. He includes concrete examples and forward-looking strategies on AI.
+Garry Kasparov
+Garry Kasparov was born in Baku, Azerbaijan, in the Soviet Union in 1963. He became the youngest world chess champion in history in 1985 and was the world's top-rated player for 20 years, until he retired in 2005. His matches against arch-rival Anatoly Karpov and the IBM supercomputer Deep Blue popularized chess and machine intelligence in unprecedented ways. Kasparov became a pro-democracy leader in Russia and an outspoken defender of individual freedom around the world, a mission he continues as the chairman of the New York-based Human Rights Foundation. He is a Visiting Fellow at the Oxford-Martin School, where his lectures focus on human-machine collaboration. Kasparov is a provocative speaker who appears frequently before business, academic, and political audiences to speak about decision-making, strategy, technology, and artificial intelligence. His influential writings on politics, cognition, and tech have appeared in dozens of major publications around the world. He has written two acclaimed series of chess books and the bestsellers How Life Imitates Chess on decision-making and Winter Is Coming on Russia and Vladimir Putin. His new book, Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins comes out in May 2017. In 2016, he was named a Security Ambassador by Avast, where he discusses cybersecurity and the digital future. He lives in New York City with his wife Dasha and their two children.
+
+@Kasparov63
+
+#defcon25/by_track/track3/friday #defcon25/By_Day/_Friday

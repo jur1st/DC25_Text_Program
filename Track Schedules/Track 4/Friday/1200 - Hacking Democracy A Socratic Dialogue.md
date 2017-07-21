@@ -1,0 +1,18 @@
+# 1200 - Hacking Democracy: A Socratic Dialogue
+Friday at 12:00 in Track 4
+45 minutes
+### Mr. Sean Kanuck*Stanford University, Center for International Security and Cooperation*
+
+In the wake of recent presidential elections in the US and France, "hacking" has taken on new political and social dimensions around the globe. We are now faced with a world of complex influence operations and dubious integrity of information. What does that imply for democratic institutions, legitimacy, and public confidence?
+
+This session will explore how liberal democracy can be hacked — ranging from direct manipulation of electronic voting tallies or voter registration lists to indirect influence over mass media and voter preferences — and question the future role of "truth" in open societies. Both domestic partisan activities and foreign interventions will be considered on technical, legal, and philosophical grounds. The speaker will build on his experience as an intelligence professional to analyze foreign capabilities and intentions in the cyber sphere in order to forecast the future of information warfare. Audience members will be engaged in a Socratic dialogue to think through how modern technologies can be used to propagate memes and influence the electorate. The feasibility of, and public policy challenges associated with, various approaches to hacking democracy will also be considered. This conceptual discussion of strategic influence campaigns will not require any specific technical or legal knowledge
+Mr. Sean Kanuck
+Sean Kanuck is an attorney and strategic consultant who advises governments, corporations, and entrepreneurs on the future of information technology. Sean is affiliated with Stanford University's Center for International Security and Cooperation and has received several international appointments, including: Chair of the Research Advisory Group for the Global Commission on the Stability of Cyberspace (Hague, Netherlands), Distinguished Visiting Fellow at Nanyang Technological University (Singapore), and Distinguished Fellow with the Observer Research Foundation (New Delhi, India). He regularly gives keynote addresses for global audiences on a variety of cyber topics, ranging from risk analysis to identity intelligence to arms control.
+
+Sean served as the United States' first National Intelligence Officer for Cyber Issues from 2011 to 2016. He came to the National Intelligence Council after a decade of experience in the Central Intelligence Agency's Information Operations Center, including both analytic and field assignments. In his Senior Analytic Service role, he was a contributing author for the 2009 White House Cyberspace Policy Review, an Intelligence Fellow with the Directorates for Cybersecurity and Combating Terrorism at the National Security Council, and a member of the United States delegation to the United Nations Group of Governmental Experts on international information security.
+
+Prior to government service, Sean practiced law with Skadden Arps in New York, where he specialized in mergers and acquisitions, corporate finance, and banking matters. He is admitted to the bar in New York and Washington DC, and his academic publications focus on information warfare and international law. Sean holds degrees from Harvard University (A.B., J.D.), the London School of Economics (M.Sc.), and the University of Oslo (LL.M.). He also proudly serves as a Trustee of the Center for Excellence in Education, a charity promoting STEM education that is based in McLean, Virginia.
+
+@seankanuck
+
+#defcon25/by_track/track4/Friday #defcon25/By_Day/_Friday
